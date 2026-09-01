@@ -19,6 +19,10 @@ Site de portfólio pessoal, apresentando os projetos que desenvolvi durante minh
 | [Space Invaders](https://github.com/luizagsoaress/Space-Invaders) | Recriação do clássico jogo de 1978 | C, Raylib, Makefile |
 | [sysram](https://github.com/luizagsoaress/sysram) | Monitor de uso de RAM com notificações para Linux | C, Shell Script, Makefile |
 | [ZXC](https://github.com/luizagsoaress/ZXC) | Shell Unix customizado com interface GTK e integração com IA | C, Makefile |
+| [i3wm-wallpaper](https://github.com/luizagsoaress/i3wm-wallpaper) | Um pequeno script que altera os wallpapers a cada "shutdown" da máquina, no i3wm. Para cada wallpaper, o tema é atualizado para se encaixar nas cores gerais da imagem. | Script.sh |
+| [Λngles](https://github.com/luizagsoaress/Angles) | Λngles é um dicionário inglês totalmente online, onde o usuário consegue pesquisar por palavras da língua inglesa e visualizar seus detalhes. | HTML, CSS, JS, Node.js, Render |
+| [Vostok](https://github.com/luizagsoaress/Vostok) | Vostok é um projeto de software de código aberto, voltado a exibir de maneira acessível diversos dados da NASA, como imagens, erupções solares recentes, asteroides monitorados, etc. | Java, Maven, Node.js, Render |
+| [Snapcam](https://github.com/luizagsoaress/snapcam) | Tire fotos rápidas totalmente online pelo computador a qualquer momento. Todas as imagens são salvas por padrão como 'captura.png'. | HTML, CSS, JS |
 
 ---
 
